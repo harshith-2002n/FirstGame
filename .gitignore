@@ -1,0 +1,7 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# Local desktop exports. The web build in build/web is published.
+*.exe
+*.zip
